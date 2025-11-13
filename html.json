@@ -3,25 +3,26 @@
 	"prefix": "Html Lab",
     "body": [
 		    
-		   "<!-- Name:Mobin  Surname:Davis  | Group:EdIfu-24/2",
-			
-			"<!DOCTYPE html>",
-			"<html lang=\"en\">",
-			"<head>",
-			"    <meta charset=\"UTF-8\">",
-			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
-			"<title>{Lab1}</title>",
-			"</head>",
-			"<body>",
-			"<h1>{Html Lab1}</h1>",
-			"<P>{snippet example}</P>",
-			"</body>",
-			"</html>"					
-
-			],			
-			
-			
-	        "description": "Html Lab1 snippet"
-
+		   "<!-- Name:Mobin  Surname:Davis  | Group:EdIfu-24/2 -->",
+	
+      "<!-- Creator: YOUR_NAME YOUR_SURNAME | Group: YOUR_GROUP -->",
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "    <meta charset=\"UTF-8\">",
+      "    <meta name=\"description\" content=\"Basic HTML structure for lab task\">",
+      "    <title>Lab Document</title>",
+      "    <link rel=\"stylesheet\" href=\"{:style.css}\">",
+      "</head>",
+      "<body>",
+      "    <h1>Welcome to my lab page</h1>",
+      "    <p>4:This template was generated using a custom snippet.</p>",
+      "</body>",
+      "</html>"
+    ],
+    "description": "Creates a basic HTML file for the lab with meta, comment, and link tag"
   }
 }
+
+
+			
