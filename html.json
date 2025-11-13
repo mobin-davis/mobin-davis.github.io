@@ -1,0 +1,27 @@
+{
+  "LAb1 snippet":{
+	"prefix": "Html Lab",
+    "body": [
+		    
+		   "<!-- Name:Mobin  Surname:Davis  | Group:EdIfu-24/2",
+			
+			"<!DOCTYPE html>",
+			"<html lang=\"en\">",
+			"<head>",
+			"    <meta charset=\"UTF-8\">",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"<title>{Lab1}</title>",
+			"</head>",
+			"<body>",
+			"<h1>{Html Lab1}</h1>",
+			"<P>{snippet example}</P>",
+			"</body>",
+			"</html>"					
+
+			],			
+			
+			
+	        "description": "Html Lab1 snippet"
+
+  }
+}
